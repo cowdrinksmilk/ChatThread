@@ -1,4 +1,4 @@
-# Chatthreads
+# ChatThreads
 
 This is a chat system backend that supports threaded messages, DMs, mentions, suspensions, and community channels — kind of like a stripped-down Slack or Discord clone. Everything’s driven by a relational DB and built in Python with a bunch of small APIs for core functionality.
 
